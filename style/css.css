@@ -1,0 +1,12 @@
+li{display: inline;}
+		li a:hover{background-color: red}
+		li a{padding: 8px 16px
+			;width: 50px
+			;border-radius: 4px;
+			list-style-type: none;
+			color: white}
+.eric{background-color: black;font-family: mathjax_frakfur;font size:22px;margin-left: 100px}
+body{background-color: grey}
+#ent{font-family: mathjax_math}
+img{float: right;}
+.pc{overflow: scroll;float: left;margin-right: 10%;margin-left: 10%;width: 400px;height: 400px;background-color: grey}
